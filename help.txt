@@ -1,0 +1,41 @@
+---Logaritmos---
+
+-Logaritmo em Base 10-
+
+O logaritmo de um numero em base 10, escrito como log(x), e o expoente ao qual a base 10 deve ser elevada para obter x.
+
+Por exemplo, log(100) = 2, pois 10^2 = 100.
+
+-Logaritmo em Base 2-
+
+O logaritmo de um numero em base 2, escrito como log2(x), e o expoente ao qual a base 2 deve ser elevada para obter x.
+
+Por exemplo, log2(8) = 3, pois 2^3 = 8.
+
+---Potencias---
+
+A potencia de um numero e o resultado de multiplicar este numero por ele mesmo varias vezes.
+
+A notacao e x^y, onde x e a base e y e o expoente.
+
+Por exemplo, 2^3 = 2 * 2 * 2 = 8.
+
+---Raizes---
+
+A raiz quadrada de um numero x e um número que, quando multiplicado por ele mesmo, resulta em x.
+
+A notacao e x^(1/2).
+
+Por exemplo, 9^(1/2) = 3, pois 3 * 3 = 9.
+
+---Seno e Cosseno---
+
+Seno e cosseno sao funcoes trigonometricas que relacionam os angulos de um triangulo retangulo com os comprimentos de seus lados.
+
+-Seno-
+
+O seno de um angulo e a razao entre o comprimento do cateto oposto ao angulo e a hipotenusa.
+
+-Cosseno-
+
+O cosseno de um angulo e a razao entre o comprimento do cateto adjacente ao angulo e a hipotenusa.
