@@ -6,11 +6,18 @@ A scientific calculator that uses MIPS Assembly Language, capable of performing 
 
 ## Installation
 
--Download the Mars4_5.jar file from the MIPS simulator's official website.
+1. Install Java JDK
 
--Place the Scientific Calculator code in a directory accessible by the MIPS simulator.
+-Go to the [Oracle JDK download page](https://www.oracle.com/java/technologies/downloads/#jdk22-linux).
 
--Ensure Java is properly set up and configured on your system to run the JAR file.
+-Select the appropriate JDK for your operating system (make sure it’s JDK 11 or higher).
+
+-Download and install the JDK following the instructions provided on the website.
+
+2.Download MARS:
+
+-Download the [MARS MIPS simulator](https://courses.missouristate.edu/KenVollmar/MARS/download.htm).
+
 ## Known Issues and Limitations
 
 -Lack of Error Handling:
