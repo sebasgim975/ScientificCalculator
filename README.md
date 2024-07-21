@@ -18,6 +18,17 @@ A scientific calculator that uses MIPS Assembly Language, capable of performing 
 
 -Download the [MARS MIPS simulator](https://courses.missouristate.edu/KenVollmar/MARS/download.htm).
 
+3. Git:
+   
+-Git is required for version control management and cloning the repository. Download and install it from [Git’s official site](https://git-scm.com/downloads).
+
+4. Clone the repository using a Terminal app:
+
+```bash
+    git clone https://github.com/sebasgim975/ScientificCalculator.git
+```
+
+
 ## Known Issues and Limitations
 
 -Lack of Error Handling:
