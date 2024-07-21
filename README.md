@@ -42,7 +42,7 @@ A scientific calculator that uses MIPS Assembly Language, capable of performing 
 
 -To run the program, click on the run button (icon with a green play symbol). Monitor the output in the provided console within MARS.
 
-##Customization:
+## Customization:
 
 -In MARS, click on Settings > Editor in order to customize the font as one sees fit (font style, size, etc).
 
