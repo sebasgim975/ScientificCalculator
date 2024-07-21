@@ -28,6 +28,23 @@ A scientific calculator that uses MIPS Assembly Language, capable of performing 
     git clone https://github.com/sebasgim975/ScientificCalculator.git
 ```
 
+## Usage
+
+1. Open the Program:
+
+-In MARS, click on File > Open and select the .asm file from your local directory where you have cloned or downloaded the repository.
+
+2. Assemble the Program:
+
+-Click on the assemble button (the crossed wrench and screwdriver symbol) on top of the page to compile the program without errors.
+
+3. Run the Program:
+
+-To run the program, click on the run button (icon with a green play symbol). Monitor the output in the provided console within MARS.
+
+##Customization:
+
+-In MARS, click on Settings > Editor in order to customize the font as one sees fit (font style, size, etc).
 
 ## Known Issues and Limitations
 
